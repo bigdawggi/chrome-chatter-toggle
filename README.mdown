@@ -1,0 +1,5 @@
+# Chatter Hider Chrome Extension
+
+## Description
+
+Appears on a specific domain and allows the show/hide toggling of an element on the page.
